@@ -1,7 +1,7 @@
 == README
 
-Created new app using rails new testapp
-Generated Mailers with rails g mailer Marketing default
+Created new app using `rails new testapp`
+Generated Mailers with `rails g mailer Marketing default`
 
 http://localhost:3000/rails/mailers/marketing/default
 
